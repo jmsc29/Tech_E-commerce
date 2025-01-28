@@ -1,0 +1,7 @@
+/Users/josemariasaezcastro/repos/Tech_E-commerce/backend/src/main/java/com/tech_e_commerce/backend/BackendApplication.java
+/Users/josemariasaezcastro/repos/Tech_E-commerce/backend/src/main/java/com/tech_e_commerce/backend/controller/ProductController.java
+/Users/josemariasaezcastro/repos/Tech_E-commerce/backend/src/main/java/com/tech_e_commerce/backend/controller/UserController.java
+/Users/josemariasaezcastro/repos/Tech_E-commerce/backend/src/main/java/com/tech_e_commerce/backend/entity/Product.java
+/Users/josemariasaezcastro/repos/Tech_E-commerce/backend/src/main/java/com/tech_e_commerce/backend/repository/ProductRepository.java
+/Users/josemariasaezcastro/repos/Tech_E-commerce/backend/src/main/java/com/tech_e_commerce/backend/service/ProductService.java
+/Users/josemariasaezcastro/repos/Tech_E-commerce/backend/src/main/java/com/tech_e_commerce/backend/service/UserService.java

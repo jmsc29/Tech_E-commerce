@@ -1,0 +1,5 @@
+com/tech_e_commerce/backend/controller/ProductController.class
+com/tech_e_commerce/backend/BackendApplication.class
+com/tech_e_commerce/backend/service/ProductService.class
+com/tech_e_commerce/backend/repository/ProductRepository.class
+com/tech_e_commerce/backend/entity/Product.class
