@@ -2,13 +2,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Spring Boot-BackendApplication<backend>",
+            "name": "Spring Boot - Backend",
             "request": "launch",
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}/backend",
             "mainClass": "com.tech_e_commerce.backend.BackendApplication",
-            "projectName": "backend",
             "args": "",
-            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
